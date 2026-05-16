@@ -288,4 +288,3 @@ architecture can protect the process.**
 ## Author
 
 **Muhammed Rabah Mundathote**
-Electronics & Instrumentation Engineering, Vellore Institute of Technology
