@@ -166,8 +166,7 @@ running at 10–100 ms cadence, this matters.
 ## Author
 
 **Muhammed Rabah Mundathote**
-Electronics & Instrumentation Engineering, Vellore Institute of Technology
-[LinkedIn](https://www.linkedin.com/in/muhammed-rabah-mt/) · muhammedrabah.19@gmail.com
+
 
 ---
 
