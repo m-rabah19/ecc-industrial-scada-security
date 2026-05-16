@@ -14,7 +14,7 @@ function industrial_scada_security(varargin)
 %   native big-integer support. This is honest: the simulation explains
 %   what production parameters look like without faking 256-bit math.
 %
-% AUTHOR  Muhammed Rabah Mundathote — VIT, Electronics & Instrumentation
+% AUTHOR  Muhammed Rabah Mundathote
 
 clearvars -global; close all; clc;
 rng(42);                                % reproducible experiments
