@@ -145,4 +145,3 @@ have.
 ## Author
 
 **Muhammed Rabah Mundathote**
-Electronics & Instrumentation Engineering, Vellore Institute of Technology
