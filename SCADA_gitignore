@@ -1,0 +1,19 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.mat
+*.fig
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+results/
